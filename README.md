@@ -25,3 +25,4 @@
  9. Open the ip address of the sa-frontend load balancer, and the application is successfully running.
 
 ## Video URL
+https://drive.google.com/file/d/12p6xpqnUBVWR6ukBqBFJfwQo1bjeCF36/view?usp=sharing
